@@ -6,8 +6,7 @@ Pràctiques amb el Github.
 
 Taula:
 
-|ID|Nom|
-|1| Bet|
-|2|  |
-
-
+ID| Nom
+-- | --
+1 | Bet
+2 | ??
