@@ -2,4 +2,4 @@
 Pràctiques amb el Github.
 
 **Text en negreta**
-
+*Text en cursiva*
