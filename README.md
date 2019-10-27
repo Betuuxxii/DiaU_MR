@@ -1,2 +1,5 @@
 # DiaU_MR
-Pràctiques amb el Github
+Pràctiques amb el Github.
+
+**Text en negreta**
+
